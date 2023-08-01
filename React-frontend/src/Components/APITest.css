@@ -1,0 +1,17 @@
+.babyroot {
+  margin: 20px;
+  margin-top: 70px;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem; /* Add vertical spacing between child elements */
+}
+
+.form-item {
+  display: flex;
+  gap: 1rem; /* Add horizontal spacing between form rows */
+}
+
+.form-row {
+  display: flex;
+  gap: 0.5rem; /* Add horizontal spacing between label and input */
+}
